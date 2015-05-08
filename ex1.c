@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(int argc, char *argv[])
 {
-  put("Hello world.");
+  puts("Hello world.");
   return 0;
 }
